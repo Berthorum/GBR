@@ -2,7 +2,7 @@
 
 GBR, an acronym for Games Bug Reports, is a personal project that compiles Bug Reports voluntarily created for Digital Games.
 
-All games listed in this repository, along with their respective Bug Reports, were tested during public testing periods that allowed the disclosure of game information. These tests were conducted on platforms focused on game testing, such as [G.Round](https://gameround.co/), or on platforms focused on game/demo development and release, such as [Itch.io](https://itch.io/). In the latter case, the Bug Reports were submitted to their developers/companies and authorized by them to be used by me as portfolio pieces.
+All games listed in this repository, along with their respective Bug Reports, were tested during public playtesting periods that allowed the disclosure of game information. These tests were conducted on platforms focused on game testing, such as [G.Round](https://gameround.co/), or on platforms focused on game/demo development and release, such as [Itch.io](https://itch.io/). In the latter case, the Bug Reports were submitted to their developers/companies and authorized by them to be used by me as portfolio pieces.
 
 <br/>
 
